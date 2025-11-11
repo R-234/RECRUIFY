@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+data/*
+!data/sample_jd.pdf
